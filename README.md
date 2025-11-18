@@ -13,7 +13,7 @@ A Node.js/TypeScript Express API that transforms text input and provides word co
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/Laharivanaja/echor-tech-api.git>
 cd echor-tech-api
 ```
 
